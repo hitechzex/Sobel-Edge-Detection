@@ -29,4 +29,4 @@ Modules
 Simulation Screenshot
 ---------------------
 
-![Simulation Waveform](https://github.com/hitechzex/Sobel-Edge-Detection/blob/main/Simulation_screenshot/Simulation_screenshot.png?raw=true)
+[Simulation Waveform](https://github.com/hitechzex/Sobel-Edge-Detection/blob/main/Simulation_screenshot.png?raw=true)
