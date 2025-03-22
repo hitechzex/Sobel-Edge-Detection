@@ -26,6 +26,7 @@ Modules
    - Testbench that initializes the system, waits for the 'done' signal, and then compares each output to a golden model.
    - The results of each comparison are printed with both actual and expected values and a match/mismatch status.
 
-Usage
------
-Run the simulation using any Verilog simulator (such as Icarus Verilog, ModelSim, etc.). The output in the console will clearly show whether each pixel matched the expected Sobel output.
+Simulation Screenshot
+---------------------
+
+![Simulation](https://github.com/hitechzex/Sobel-Edge-Detection/blob/main/Simulation_screenshot/your-image.png?raw=true)
