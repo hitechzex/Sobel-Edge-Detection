@@ -1,5 +1,5 @@
-Sobel Edge Detection in Verilog
-===============================
+Sobel Edge Detection
+====================
 
 Overview
 --------
