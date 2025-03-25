@@ -28,6 +28,8 @@ module sobel_top #(
     wire [DATA_WIDTH+2:0] gradient;
 
     image_mem mem (
+		.clk(clk),
+		.rst(rst),
         .row(mem_row),
         .col(mem_col),
         .pixel(pixel)
